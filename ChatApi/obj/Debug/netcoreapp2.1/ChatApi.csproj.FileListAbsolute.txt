@@ -1,0 +1,14 @@
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\bin\Debug\netcoreapp2.1\ChatApi.deps.json
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\bin\Debug\netcoreapp2.1\ChatApi.runtimeconfig.json
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\bin\Debug\netcoreapp2.1\ChatApi.runtimeconfig.dev.json
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\bin\Debug\netcoreapp2.1\ChatApi.dll
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.csprojAssemblyReference.cache
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.csproj.CoreCompileInputs.cache
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.RazorAssemblyInfo.cache
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.RazorAssemblyInfo.cs
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.AssemblyInfoInputs.cache
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.AssemblyInfo.cs
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.RazorTargetAssemblyInfo.cache
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\bin\Debug\netcoreapp2.1\ChatApi.pdb
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.dll
+C:\Users\joaovitorsilva\source\repos\ChatApi\ChatApi\obj\Debug\netcoreapp2.1\ChatApi.pdb
